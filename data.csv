@@ -1,0 +1,31 @@
+State,ISO 3166-2:IN,Capital,Largest city,Population,Area(km),%area,police
+Andhra Pradesh,IN-AP,Hyderabad (de jure),Visakhapatnam,"49,506,799","160,205",4.885461,81106.02246
+Arunachal Pradesh,IN-AR,Itanagar,NaN,"1,383,727","83,743",2.553748,42396.06528
+Assam,IN-AS,Dispur,Guwahati,"31,205,576","78,550",2.395387,39767.03638
+Bihar,IN-BR,Patna,NaN,"104,099,452","99,200",3.02511,50221.38777
+Chhattisgarh,IN-CT,Naya Raipur,Raipur,"25,545,198","135,194",4.122749,68443.85381
+Goa,IN-GA,Panaji,Vasco da Gama,"1,458,545","3,702",0.112893,1874.18929
+Gujarat,IN-GJ,Gandhinagar,Ahmedabad,"60,439,692","196,024",5.977763,99239.8923
+Haryana,IN-HR,Chandigarh,Faridabad,"25,351,462","44,212",1.348247,22382.94351
+Himachal Pradesh,IN-HP,Shimla (Summer),Shimla,"6,864,602","55,673",1.697751,28185.23509
+Jammu and Kashmir,IN-JK,Srinagar (Summer),Srinagar,"12,541,302","222,236",6.777099,112510.084
+Jharkhand,IN-JH,Ranchi,Jamshedpur,"32,988,134","74,677",2.277279,37806.27595
+Karnataka,IN-KA,Bangalore,NaN,"61,095,297","191,791",5.848677,97096.87683
+Kerala,IN-KL,Thiruvananthapuram,Kochi,"33,406,061","38,863",1.185129,19674.93743
+Madhya Pradesh,IN-MP,Bhopal,Indore,"72,626,809","308,252",9.400162,156056.8873
+Maharashtra,IN-MH,Mumbai,NaN,"112,374,333","307,713",9.383725,155784.011
+Manipur,IN-MN,Imphal,NaN,"2,855,794","22,347",0.681473,11313.48138
+Meghalaya,IN-ML,Shillong,NaN,"2,966,889","22,720",0.692848,11502.31784
+Mizoram,IN-MZ,Aizawl,NaN,"1,097,206","21,081",0.642866,10672.55116
+Nagaland,IN-NL,Kohima,Dimapur,"1,978,502","16,579",0.505578,8393.350684
+Odisha,IN-OR,Bhubaneswar,NaN,"41,974,218","155,820",4.75174,78886.05486
+Punjab,IN-PB,Chandigarh,Ludhiana,"27,743,338","50,362",1.535792,25496.46704
+Rajasthan,IN-RJ,Jaipur,NaN,"68,548,437","342,269",10.437513,173278.4695
+Sikkim,IN-SK,Gangtok,NaN,"610,577","7,096",0.216393,3592.44927
+Tamil Nadu,IN-TN,Chennai,NaN,"72,147,030","130,058",3.966126,65843.68196
+Telangana,IN-TG,Hyderabad,NaN,"35,193,978","114,840",3.502052,58139.35657
+Tripura,IN-TR,Agartala,NaN,"3,673,917","10,492",0.319954,5311.721779
+Uttar Pradesh,IN-UP,Lucknow,Kanpur,"199,812,341","243,286",7.41902,123166.941
+Uttarakhand,IN-UT,Dehradun,NaN,"10,086,292","53,483",1.630967,27076.51696
+West Bengal,IN-WB,Kolkata,NaN,"91,276,115","88,752",2.706497,44931.94161
+NaN,NaN,NaN,NaN,NaN,"3,279,220",NaN,"1,660,151"
